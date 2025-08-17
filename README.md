@@ -13,7 +13,7 @@ Ensayos de Tracción:
 
 <img width="589" height="358" alt="image" src="https://github.com/user-attachments/assets/e35f5eca-78b6-4c15-8d52-4dc83788fce4" />
 
-5 ) Se graban los datos. Estos datos se guardan automáticamente en la carpeta donde está el simulador con el nombre “Resultados_Trac”. Esos datos vamos a procesarlos con Python.
+5) Se graban los datos. Estos datos se guardan automáticamente en la carpeta donde está el simulador con el nombre “Resultados_Trac”. Esos datos vamos a procesarlos con Python.
 
 6) Procesamiento de los datos con Python. Dentro de su Drive, utilizando la cuenta de la escuela, crean una carpeta que se llame, por ejemplo, Ensayos de Tracción. Copian el archivo de los datos obtenidos con el simulador en esa carpeta.
 
